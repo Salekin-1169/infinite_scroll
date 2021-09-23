@@ -252,9 +252,11 @@ That's it.
 
 ### Study material
 
-[useCallback] (https://reactjs.org/docs/hooks-reference.html#usecallback)
-[Intersection Observer] (https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+[useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
 
+[Intersection Observer](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+
+{@embed: https://www.youtube.com/watch?v=NZKUirTtxcg}
 
 ### souurce code
-...
+https://github.com/Salekin-1169/infinite_scroll
